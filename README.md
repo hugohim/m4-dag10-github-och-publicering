@@ -4,6 +4,8 @@
 
 *Modul 4, UI/UX & Frontendutveckling, Lexicon IT-Proffs*
 
+![website image](image.png)
+
 ## Vad du ska göra idag
 
 Du skickar upp ditt arbete med `git push` och publicerar sidan på riktigt med GitHub Pages. Du får en publik adress som alla kan öppna.
