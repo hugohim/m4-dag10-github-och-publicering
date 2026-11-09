@@ -1,4 +1,6 @@
-# Dag 10 · GitHub och publicering
+# Webbsida för ett Café
+# https://hugohim.github.io/m4-dag08-css-variabler-och-struktur/index.html
+## HTML, CSS, Git, Flex, Grid
 
 *Modul 4, UI/UX & Frontendutveckling, Lexicon IT-Proffs*
 
